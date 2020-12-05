@@ -9,8 +9,6 @@ import android.graphics.Color;
 import android.view.View;
 import android.view.View.OnClickListener;
 
-import com.example.homework09.R;
-
 public class ToolbarActivity extends AppCompatActivity {
     private final static String TAG = "ToolbarActivity";
 

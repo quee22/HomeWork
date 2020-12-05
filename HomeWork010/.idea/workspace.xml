@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81ef3ab1-bf98-4b42-a759-b4a8b64f61e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/BannerIndicatorActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/BannerPagerActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/BannerTopActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/OverflowMenuActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/RecyclerCombineActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/RecyclerDynamicActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/RecyclerGridActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/RecyclerLinearActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/RecyclerStaggeredActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/SearchResultActvity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/SearchViewActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/SwipeRecyclerActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/SwipeRefreshActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/TabButtonActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/TabCustomActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/TabFirstActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/TabFragmentActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/TabGroupActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/TabHostActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/TabLayoutActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/TabSecondActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/TabThirdActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/ToolbarActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/ToolbarCustomActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/ViewFlipperActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/adapter/GoodsPagerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/adapter/LinearDynamicAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/adapter/RecyclerCombineAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/adapter/RecyclerGridAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/adapter/RecyclerLinearAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/adapter/RecyclerStaggeredAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/bean/GoodsInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/constant/ImageList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/fragment/BookCoverFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/fragment/BookDetailFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/fragment/TabFirstFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/fragment/TabSecondFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/fragment/TabThirdFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/util/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/util/MenuUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/util/StatusBarUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/util/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/widget/BannerIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/widget/BannerPager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/widget/CustomDateDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/widget/PagerIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/widget/RecyclerExtras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/java/com/example/homework010/widget/SpacesItemDecoration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/banner_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/banner_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/banner_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/banner_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/banner_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/book_cover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/book_detail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/cainixihuan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/dapaijiadao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/dian01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/dian02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/dian03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/dian04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/dian05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/dian06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/dian07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/dian08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/dian09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/dian10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/dian11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/dian12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/dian13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/dian14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/dian15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/editext_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/ic_about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/ic_app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/ic_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/ic_quit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/ic_refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/ic_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/icon_point_c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/icon_point_n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/indicator_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/item_toolbar1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/item_toolbar2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/null_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/pic_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/pic_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/pic_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/pic_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/pic_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/pic_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/pic_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/pic_08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/pic_09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/pic_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/pic_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/pic_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/pic_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/pic_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/pic_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/pic_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/public_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/public_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/public_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/public_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/public_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/red_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/shape_edit_focus.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/shape_edit_normal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/skirt23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/tab_bg_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/tab_bg_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/tab_bg_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/tab_first_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/tab_first_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/tab_first_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/tab_second_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/tab_second_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/tab_second_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/tab_text_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/tab_third_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/tab_third_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/tab_third_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/toolbar_image_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/toolbar_text_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/trip_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/trip_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/trip_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/drawable/trip_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_banner_indicator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_banner_pager.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_banner_top.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_overflow_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_recycler_combine.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_recycler_dynamic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_recycler_grid.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_recycler_linear.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_recycler_staggered.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_search_result_actvity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_search_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_swipe_recycler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_swipe_refresh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_tab_button.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_tab_custom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_tab_first.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_tab_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_tab_group.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_tab_host.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_tab_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_tab_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_tab_third.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_toolbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_toolbar_custom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/activity_view_flipper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/banner_indicator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/banner_pager.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/dialog_date.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/fragment_book_cover.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/fragment_book_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/fragment_tab_first.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/fragment_tab_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/fragment_tab_third.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/item_combine.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/item_grid.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/item_linear.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/item_staggered.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/item_tabbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/layout/search_list_auto.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/menu/menu_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/menu/menu_null.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/menu/menu_overflow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/menu/menu_search.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork010/app/src/main/res/xml/searchable.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork009/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork009/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork09/app/src/main/java/com/example/homework09/ToolbarActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork09/app/src/main/java/com/example/homework09/ToolbarActivity.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lExT6VHBqHL38Ao7hgpYiWvjPO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HomeWork09" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81ef3ab1-bf98-4b42-a759-b4a8b64f61e6" name="Default Changelist" comment="" />
+      <created>1607176056568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607176056568</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="53" key="#Plugins" timestamp="1607177518530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="53" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1607177518530" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607177248755">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1607177248755" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1607177615427">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607177615427" />
+    <state x="270" y="56" key="SettingsEditor" timestamp="1607176720515">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607176720515" />
+  </component>
+</project>
