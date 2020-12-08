@@ -12,7 +12,7 @@ import com.example.homework010.bean.GoodsInfo;
 import com.example.homework010.widget.SpacesItemDecoration;
 
 public class RecyclerGridActivity extends AppCompatActivity {
-
+    //网格布局
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

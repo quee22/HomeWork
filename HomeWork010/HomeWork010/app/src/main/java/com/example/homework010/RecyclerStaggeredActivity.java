@@ -12,7 +12,7 @@ import com.example.homework010.bean.GoodsInfo;
 import com.example.homework010.widget.SpacesItemDecoration;
 
 public class RecyclerStaggeredActivity extends AppCompatActivity {
-
+    //瀑布布局
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

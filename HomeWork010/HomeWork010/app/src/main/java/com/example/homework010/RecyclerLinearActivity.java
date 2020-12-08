@@ -12,7 +12,7 @@ import com.example.homework010.bean.GoodsInfo;
 import com.example.homework010.widget.SpacesItemDecoration;
 
 public class RecyclerLinearActivity extends AppCompatActivity {
-
+    //线性布局
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
